@@ -6,7 +6,7 @@ from cogs.checks import check_staff_id
 from discord.ext import commands
 from inspect import cleandoc
 
-
+#testing
 class Assistance(commands.Cog):
     """
     Commands that will mostly be used in the help channels.
